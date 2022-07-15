@@ -1,6 +1,6 @@
+'decreaseVolumeFrom_-100',-100,0
 'decreaseVolumeFrom_-1',-1,0
 'decreaseVolumeFrom_min',0,0
-'decreaseVolumeFrom_2',2,1
-'decreaseVolumeFrom_9',9,8
-'decreaseVolumeFrom_max',10,9
-'decreaseVolumeFrom_11',11,9
+'decreaseVolumeFrom_1',1,0
+'decreaseVolumeFrom_99',99,98
+'decreaseVolumeFrom_max',100,99
